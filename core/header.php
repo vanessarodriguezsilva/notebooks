@@ -19,10 +19,3 @@
 </head>
 
 <body>
-    <!-- Acá va  el html -->
-    <p>Acá va el html</p>
-
-    <script src="public/js/app.js"></script>
-</body>
-
-</html>

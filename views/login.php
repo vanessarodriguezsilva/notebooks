@@ -12,7 +12,7 @@
                         <a href="#">Iniciar Sesión</a>
                     </div>
                     <div class="col-xs-6">
-                        <a href="#">Registrarse</a>
+                        <a href="#">Registrarse.</a>
                     </div>
                 </div>
                 <div class="log-body">
